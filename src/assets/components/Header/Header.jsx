@@ -13,7 +13,7 @@ export default function Header() {
 			    <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target=".navbar-collapse">
 			        ☰
 			    </button>
-			    <Link className="navbar-brand mx-auto" to="/"><img src={icon}/></Link>
+			    <Link className="navbar-brand mx-auto" to='/Apple-Clone/'><img src={icon}/></Link>
 
 			    <div className="navbar-collapse collapse">
 			        <ul className="navbar-nav nav-justified w-100 nav-fill">
