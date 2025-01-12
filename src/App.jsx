@@ -20,7 +20,7 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path='/Apple-Clone/' element={<CombinedComponent />} />
+        <Route path="/" element={<CombinedComponent />} />
         <Route path="/iphones" element={<Iphone />} /> {/* Correct Route */}
         <Route path="/iphones/:id" element={<ProductDetail />} /> {/* Dynamic Route */}
         <Route path="/watch" element={<Watch />} />
