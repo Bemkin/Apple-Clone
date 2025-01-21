@@ -1,5 +1,5 @@
 import React from 'react'
-import sixteen from '../../../../../apple-responsive-replica-html-css-mar-2020/images/icons/16.png'
+import sixteen from '../images/icons/16.png'
 
 export default function Footer() {
   return (
