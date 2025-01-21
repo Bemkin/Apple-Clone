@@ -1,8 +1,8 @@
 import React from 'react'
-import appletv from '../../../../../apple-responsive-replica-html-css-mar-2020/images/icons/apple-tv-logo.png'
-import banker from '../../../../../apple-responsive-replica-html-css-mar-2020/images/home/banker.png'
-import watch from '../../../../../apple-responsive-replica-html-css-mar-2020/images/icons/watch-series5-logo.png'
-import icon from '../../../../../apple-responsive-replica-html-css-mar-2020/images/icons/arcade.png'
+import appletv from '../images/icons/apple-tv-logo.png'
+import banker from '../images/home/banker.png'
+import watch from '../images/icons/watch-series5-logo.png'
+import icon from '../images/icons/arcade.png'
 
 export default function Mainsection() {
   return (
